@@ -27,6 +27,5 @@ public class MethodRefEx2 {
 
         System.out.println("newPerson1: " + newPerson1.apply("Kim"));
         System.out.println("newPerson2: " + newPerson2.apply("Kim"));
-
     }
 }
