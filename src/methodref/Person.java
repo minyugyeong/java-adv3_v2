@@ -19,7 +19,7 @@ public class Person {
 
     // 정적 메서드, 매개변수
     public static String greetingWithName(String name) {
-        return "Hello" + name;
+        return "Hello " + name;
     }
 
     public String getName() {
